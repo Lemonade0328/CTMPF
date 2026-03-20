@@ -10,7 +10,7 @@ A brief introduction to your algorithm goes here. For example: This repository p
 ## 📁 Repository Structure
 
 Below is a brief overview of the files included in this repository:
-* `main.m` (or `demo.m`): The main entry script to run the algorithm.
+* `main.m` : The main entry script to run the algorithm.
 * `utils/`: Directory containing utility functions and helper scripts.
 * `metrics/`: Directory containing scripts for objective quality evaluation.
 * `image/`: Directory containing sample input images for testing.
